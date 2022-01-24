@@ -9,7 +9,7 @@
 https://github.com/nrt0/lp-practice-static/projects/2
 
 # サイトのURL
-http://td0.s223.xrea.com/
+https://td0.shop/
 
 # 必要な情報
 「XREA.COM NEW SIGNUP」というメールに書かれています
