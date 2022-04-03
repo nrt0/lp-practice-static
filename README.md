@@ -13,8 +13,6 @@ https://td0.shop/
 
 # ssh接続
 
-公開鍵認証でSSH接続できるようになりました。
-
 ```
 ssh td0@s223.xrea.com
 ```
